@@ -8,7 +8,7 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+<img src=development/code/phase-0/phase-0-html-riyadh-blog-lab/images/transportation/transit.jpg alt=escalators>
 
 IMAGE 1 ALT TEXT
 
